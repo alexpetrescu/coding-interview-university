@@ -623,7 +623,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
     - [ ] [Binary Search (video)](https://www.youtube.com/watch?v=D5SrAga1pno)
     - [ ] [Binary Search (video)](https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search)
     - [ ] [detail](https://www.topcoder.com/community/competitive-programming/tutorials/binary-search/)
-    - [ ] Implement:
+    - [x] Implement:
         - binary search (on sorted array of integers)
         - binary search using recursion
 
@@ -785,9 +785,9 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
     - [ ] [Implementation (C)](https://github.com/jwasham/practice-c/blob/master/quick_sort/quick_sort.c)
     - [ ] [Implementation (Python)](https://github.com/jwasham/practice-python/blob/master/quick_sort/quick_sort.py)
 
-- [ ] Implement:
-    - [ ] Mergesort: O(n log n) average and worst case
-    - [ ] Quicksort O(n log n) average case
+- [x] Implement:
+    - [x] Mergesort: O(n log n) average and worst case
+    - [x] Quicksort O(n log n) average case
     - Selection sort and insertion sort are both O(n^2) average and worst case
     - For heapsort, see Heap data structure above.
 
